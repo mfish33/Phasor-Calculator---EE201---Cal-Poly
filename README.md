@@ -37,3 +37,4 @@ I made this calculator to solve AC circuit anysis and filter problems. The code 
 	printPowerFactor(P);
 	// OUTPUT: The Power Factor is: 8.4%
 ```
+![Example image](/Phasor%20Calculator/example.PNG)
