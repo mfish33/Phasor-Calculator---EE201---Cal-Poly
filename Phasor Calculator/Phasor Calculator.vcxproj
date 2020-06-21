@@ -152,7 +152,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="filters.h" />
-    <ClInclude Include="inductances.h" />
+    <ClInclude Include="impedance.h" />
     <ClInclude Include="power.h" />
     <ClInclude Include="printing.h" />
     <ClInclude Include="resource.h" />

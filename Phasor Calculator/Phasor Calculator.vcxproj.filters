@@ -32,9 +32,6 @@
     <ClInclude Include="waveforms.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="inductances.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="power.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -42,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="filters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="impedance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
